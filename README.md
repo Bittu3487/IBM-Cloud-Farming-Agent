@@ -1,23 +1,23 @@
 # 🌾 Farming Buddy – Your AI-Powered Smart Agriculture Assistant
 
-**Farming Buddy** is an AI-powered chatbot agent designed to help farmers make smarter decisions by providing crop suggestions, pest control advice, irrigation guidance, and real-time weather-based tips—all for free—deployable on **IBM Cloud Lite** using **watsonx.ai Prompt Lab** and **Granite foundation models**.
+**Farming Buddy** is an AI-powered chatbot agent designed to help farmers make smarter decisions by offering crop recommendations, pest control guidance, irrigation advice, and real-time weather-based tips—all for free. Built using **IBM watsonx.ai Prompt Lab** and **Granite foundation models**, and deployed on the **IBM Cloud Lite** plan, this assistant brings the power of AI directly to the agricultural community.
 
+---
 
+## 📌 Overview
 
+Farming Buddy leverages IBM’s Granite LLM to provide intelligent, natural-language responses tailored to the farmer’s region, season, and crop type. No coding is required. It’s designed to work via web chat, API, or directly inside Prompt Lab, making it ideal for agri-tech startups, educators, and researchers focused on smart farming.
 
-# Overview
-Farming Buddy is an AI-powered chatbot agent designed to help farmers make smarter decisions by providing crop suggestions, pest control advice, irrigation guidance, and real-time weather-based tips—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and Granite foundation models.
-
-
+---
 
 ## ✅ Features
 
-- **Conversational AI** — Friendly chat-based Q&A for crops, pests, weather, and soil guidance.
-- **Built on Free Tier** — No paid IBM Cloud resources required.
-- **Prompt-engineered** — Uses carefully crafted prompts for highly relevant and context-aware responses.
-- **Live Web or API Use** — Deployable as a web chat widget, API endpoint, or directly via IBM Prompt Lab.
-- **Region-aware Suggestions** — Adjusts responses based on location and season.
-- **Smart Farming Guidance** — Offers sustainable, weather-aligned farming advice.
+- **Conversational AI** — Chat-based interaction for farmers to ask about crops, pests, weather, and soil.
+- **Built on Free Tier** — Uses IBM Cloud Lite resources with no billing required.
+- **Prompt-engineered Intelligence** — Delivers high-quality answers using optimized system prompts.
+- **Live Web & API Ready** — Deployable as a chatbot, embeddable widget, or accessible via API.
+- **Geo-contextual Suggestions** — Offers advice based on state, season, and environmental conditions.
+- **Sustainable Farming Support** — Recommends eco-friendly and resource-efficient practices.
 
 ---
 
@@ -25,102 +25,103 @@ Farming Buddy is an AI-powered chatbot agent designed to help farmers make smart
 
 You can interact with Farming Buddy via:
 
-- **IBM watsonx.ai Prompt Lab** (test prompts directly)
-- **Deployed Web Chat Widget** (if integrated)
-- **REST Endpoint** (send requests via curl/Postman/custom app)
+- **IBM watsonx.ai Prompt Lab** — For direct testing and prompt customization.
+- **Deployed Web Chat** — Interact through a shared chat widget or embed.
+- **REST API Endpoint** — Integrate with custom apps or Postman via deployment URL.
 
-### 1. Prompt Lab Testing
+### 🧪 1. Prompt Lab Testing
 
 - Open your **Farming Buddy** asset in IBM watsonx.ai Prompt Lab.
-- Type a question in the “Test” or “Preview” section.
-- Get AI-powered agricultural advice instantly.
+- Use the test or preview input to ask farming-related questions.
+- View real-time AI-generated suggestions instantly.
 
-### 2. Web Chat Preview (if deployed)
+### 🌐 2. Web Chat Preview (If Deployed)
 
-- Open the provided web chat or embed-page link in your browser.
-- Start a conversation: Ask farming questions, pest control tips, crop suggestions, or irrigation help.
+- Open the provided web chat or embedded page.
+- Ask questions about seasonal crops, pest control, or fertilizer use.
 
 ---
 
-## 🧠 Example Prompts
+## 💬 Example Prompts
 
-1. “Which crop is best to grow in Tamil Nadu during the monsoon?”
-2. “How do I control aphids on my tomato plants?”
-3. “Suggest a fertilizer schedule for maize.”
-4. “What is the rainfall forecast for Gujarat this week?”
-5. “How to improve soil health in black soil?”
+1. "Which crop is best to grow in Tamil Nadu during the monsoon?"
+2. "How do I control aphids on tomato plants?"
+3. "Suggest a fertilizer schedule for maize."
+4. "What's the rainfall forecast for Gujarat this week?"
+5. "How can I improve soil fertility in black soil regions?"
 
 ---
 
 ## 🛠 Built With
 
-- [IBM watsonx.ai](https://www.ibm.com/products/watsonx) – Foundation models and Prompt Lab
-- **Granite-13b-chat-v2** – IBM’s LLM for agriculture-focused natural language interactions
-- **IBM Cloud Lite Plan** – Free tier deployment without billing
+- [IBM watsonx.ai](https://www.ibm.com/products/watsonx) — Prompt Lab & Foundation Models
+- **granite-3-3-8b-instruct** — IBM’s Large Language Model for domain-specific reasoning
+- **IBM Cloud Lite Plan** — Free tier cloud hosting for models and assets
 
 ---
 
-Feel free to clone, fork, or adapt for your regional agriculture use cases.
+## ☁️ IBM Cloud Services Used
+
+- **Watsonx.ai Studio**
+- **IBM Granite Model**
+- **Watsonx Vector Index (optional)**
+- **IBM Cloud Lite Account**
+- **IBM Cloud IAM**
+- **IBM Cloud Object Storage**
+
+---
+
+## 🔍 How It Works
+
+- **Built in Prompt Lab**: No-code setup using natural language prompt templates.
+- **No dataset required**: Relies fully on pre-trained foundation models (Granite).
+- **Customizable**: Easily adapt the system prompt to change tone, language, or farming focus.
+
+---
+
+## ✅ Do’s and Don’ts
+
+### ✅ Do:
+- Ask about crops, pests, irrigation, soil, and weather-based farming tips.
+- Phrase questions clearly in natural language.
+- Use via IBM Prompt Lab or deployed webchat for best results.
+
+### ❌ Don’t:
+- Enter personal or financial data.
+- Use for medical or veterinary advice.
+- Expect memory or context across different sessions (stateless unless extended).
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Setup in Prompt Lab
+<img width="929" alt="Setup" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Set_up.png" />
+
+### 🔹 Suggested Prompts
+<img width="874" alt="Prompts" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Suggest_prompt.png" />
+
+### 🔹 Tools & Testing
+<img width="890" alt="Tools" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Tools.png" />
+
+### 🔹 Deployment Interface
+<img width="1919" alt="Deployment" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Deploy.png" />
+
+### 🔹 API References
+<img width="1919" alt="API Reference" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Api_reference.png" />
+
+### 🔹 Resources List
+<img width="1910" alt="Resources" src="https://github.com/user-attachments/assets/e78eeb99-50df-4eab-809c-ed13817fcbb2" />
+
+---
 
 
-# 🖼️ Screenshots
 
-# 🔹 Setting up..
 
-<img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Set_up.png" />
+## 📁 License
 
-# 🔹 Quick Start Questions...
+This project is open-source and available under the [MIT License](LICENSE).
 
-<img width="874" height="503" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Suggest_prompt.png" />
+---
 
-# 🔹 Tools used & Testing..
-
-<img width="890" height="671" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Tools.png" />
-
-# 🔹 Deployment & Preview...
-
-<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Deploy.png" />
-
-# 🔹 API References after Deployment..
-
-<img width="1919" height="762" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Api_reference.png" />
-
-# 🔹Resources List..
-
-<img width="1910" height="745" alt="image" src="https://github.com/user-attachments/assets/e78eeb99-50df-4eab-809c-ed13817fcbb2" />
-
-# ☁️ IBM Cloud Services Used
-# Watsonx.ai Studio
-# . IBM Granite Model
-# . Watsonx Vector Index
-# . IBM Cloud Lite Account
-# . IBM Cloud IAM
-# . IBM Cloud Object Storage
-
-# How It Works
-Built in IBM watsonx.ai Prompt Lab: Uses prompt templates to define bot personality and answer style.
-
-No dataset/training required: Relies on IBM foundation models.
-
-Customisable: Update system prompt to tailor advice or tone.
-
-# Do’s and Don’ts
-
-# Do:
-
-Ask for fitness tips, workouts, healthy meals, and motivation.
-
-Phrase questions clearly.
-
-Use the Preview or Webchat interface for best experience.
-
-# Don’t:
-
-Enter sensitive personal data or medical questions.
-
-Treat the agent as a replacement for certified medical/professional advice.
-
-Expect tracking or memory of past chats (unless extended for that).
-
-# Acknowledgements
-Created as part of IBM SkillsBuild Academic Hackathon. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
+🎯 _Empowering farmers with AI — because smart agriculture starts with smart decisions._
