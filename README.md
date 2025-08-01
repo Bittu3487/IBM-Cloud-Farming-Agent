@@ -1,63 +1,81 @@
-# Fitness Buddy – AI Fitness Companion
+# 🌾 Farming Buddy – Your AI-Powered Smart Agriculture Assistant
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c621cb75-17e2-411a-839e-b3602fe9753d" />
+**Farming Buddy** is an AI-powered chatbot agent designed to help farmers make smarter decisions by providing crop suggestions, pest control advice, irrigation guidance, and real-time weather-based tips—all for free—deployable on **IBM Cloud Lite** using **watsonx.ai Prompt Lab** and **Granite foundation models**.
+
+
 
 
 # Overview
-Fitness Buddy is an AI-powered chatbot agent designed to help users stay motivated, discover personalised workouts, receive healthy meal ideas, and get fitness tips in real time—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and foundation models.
+Farming Buddy is an AI-powered chatbot agent designed to help farmers make smarter decisions by providing crop suggestions, pest control advice, irrigation guidance, and real-time weather-based tips—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and Granite foundation models.
 
-# Features
-. Conversational AI—Friendly chat-based Q&A for fitness, meals, and motivation.
 
-. Built on Free Tier—No paid IBM Cloud resources required.
 
-. Prompt-engineered—Uses effective system prompts for high-quality, relevant responses.
+## ✅ Features
 
-. Live Web or API Use—Deployable as a webchat widget, API endpoint, or directly via IBM Prompt Lab.
+- **Conversational AI** — Friendly chat-based Q&A for crops, pests, weather, and soil guidance.
+- **Built on Free Tier** — No paid IBM Cloud resources required.
+- **Prompt-engineered** — Uses carefully crafted prompts for highly relevant and context-aware responses.
+- **Live Web or API Use** — Deployable as a web chat widget, API endpoint, or directly via IBM Prompt Lab.
+- **Region-aware Suggestions** — Adjusts responses based on location and season.
+- **Smart Farming Guidance** — Offers sustainable, weather-aligned farming advice.
 
-# Usage
-You can interact with Fitness Buddy via:
+---
 
-IBM watsonx.ai Prompt Lab (test prompts directly)
+## 🚀 Usage
 
-Deployed Web Chat Widget (if integrated)
+You can interact with Farming Buddy via:
 
-REST Endpoint (send requests via curl/Postman/custom app)
+- **IBM watsonx.ai Prompt Lab** (test prompts directly)
+- **Deployed Web Chat Widget** (if integrated)
+- **REST Endpoint** (send requests via curl/Postman/custom app)
 
-1. Prompt Lab Testing
-Open your Fitness Buddy asset in IBM watsonx.ai Prompt Lab.
+### 1. Prompt Lab Testing
 
-Type a question in the “Test” or “Preview” section.
+- Open your **Farming Buddy** asset in IBM watsonx.ai Prompt Lab.
+- Type a question in the “Test” or “Preview” section.
+- Get AI-powered agricultural advice instantly.
 
-Get AI-generated tips immediately.
+### 2. Web Chat Preview (if deployed)
 
-2. Web Chat Preview (if deployed)
-Open the provided web chat or embed-page link in your browser.
+- Open the provided web chat or embed-page link in your browser.
+- Start a conversation: Ask farming questions, pest control tips, crop suggestions, or irrigation help.
 
-Start a conversation: Ask fitness questions, request meal ideas, or motivation.
+---
 
-# Example Prompts
-1) “Suggest a home workout.”
+## 🧠 Example Prompts
 
-2) “Give me a motivational fitness tip.”
+1. “Which crop is best to grow in Tamil Nadu during the monsoon?”
+2. “How do I control aphids on my tomato plants?”
+3. “Suggest a fertilizer schedule for maize.”
+4. “What is the rainfall forecast for Gujarat this week?”
+5. “How to improve soil health in black soil?”
 
-3) “What is a healthy breakfast?”
+---
 
-4) “Recommend exercises for beginners.”
+## 🛠 Built With
+
+- [IBM watsonx.ai](https://www.ibm.com/products/watsonx) – Foundation models and Prompt Lab
+- **Granite-13b-chat-v2** – IBM’s LLM for agriculture-focused natural language interactions
+- **IBM Cloud Lite Plan** – Free tier deployment without billing
+
+---
+
+Feel free to clone, fork, or adapt for your regional agriculture use cases.
+
 
 # 🖼️ Screenshots
 
 # 🔹 Setting up..
 
-<img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/user-attachments/assets/02919562-e9d6-4259-b393-2618c49e5876" />
+<img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Set_up.png" />
 
 # 🔹 Quick Start Questions...
 
-<img width="874" height="503" alt="image" src="https://github.com/user-attachments/assets/8cab3b2d-466c-4286-b9c0-623eb7e2535c" />
+<img width="874" height="503" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Suggest_prompt.png" />
 
 # 🔹 Tools used & Testing..
 
-<img width="890" height="671" alt="image" src="https://github.com/user-attachments/assets/89cf91b6-a154-4b91-a48d-3586c52ee409" />
+<img width="890" height="671" alt="image" src="" />
 
 # 🔹 Deployment & Preview...
 
