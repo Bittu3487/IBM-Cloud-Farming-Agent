@@ -75,15 +75,15 @@ Feel free to clone, fork, or adapt for your regional agriculture use cases.
 
 # 🔹 Tools used & Testing..
 
-<img width="890" height="671" alt="image" src="" />
+<img width="890" height="671" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Tools.png" />
 
 # 🔹 Deployment & Preview...
 
-<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/user-attachments/assets/10b6ee95-e898-486c-8b78-899999c2019e" />
+<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Deploy.png" />
 
 # 🔹 API References after Deployment..
 
-<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/dacb7cf8-3dfa-4b48-9b91-089da887120b" />
+<img width="1919" height="762" alt="image" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Api_reference.png" />
 
 # 🔹Resources List..
 
