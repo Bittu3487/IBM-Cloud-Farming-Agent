@@ -111,7 +111,7 @@ You can interact with Farming Buddy via:
 <img width="1919" alt="API Reference" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Api_reference.png" />
 
 ### 🔹 Resources List
-<img width="1910" alt="Resources" src="https://github.com/user-attachments/assets/e78eeb99-50df-4eab-809c-ed13817fcbb2" />
+<img width="1910" alt="Resources" src="https://github.com/Bittu3487/IBM-Cloud-Farming-Agent/blob/main/Resources.png" />
 
 ---
 
